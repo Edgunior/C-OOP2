@@ -1,0 +1,7 @@
+[Razredni, Razrednic, 1234567890123 ]
+
+[Petar, Petrovic, 4756987452136 ]
+[Ucenik1ic, 1748698123587, 0000000000000 ]
+[Ucenik3ic, thisisinvalid, 0000000000000 ]
+[Ucenik2ic, 12, 0000000000000 ]
+Broj ucenika sa validnim jmbg je 1

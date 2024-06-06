@@ -1,0 +1,4 @@
+12 Ucenik2 Ucenik2ic
+1748698123587 Ucenik1 Ucenik1ic
+thisisinvalid Ucenik3 Ucenik3ic
+4756987452136 $DEF$ $DEF$
